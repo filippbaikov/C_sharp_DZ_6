@@ -1,0 +1,15 @@
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\bin\Debug\net6.0\homework_6_c_sharp.exe
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\bin\Debug\net6.0\homework_6_c_sharp.deps.json
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\bin\Debug\net6.0\homework_6_c_sharp.runtimeconfig.json
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\bin\Debug\net6.0\homework_6_c_sharp.dll
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\bin\Debug\net6.0\homework_6_c_sharp.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.csproj.AssemblyReference.cache
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.AssemblyInfoInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.AssemblyInfo.cs
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.dll
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\refint\homework_6_c_sharp.dll
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.pdb
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\homework_6_c_sharp.genruntimeconfig.cache
+C:\Users\zelib\OneDrive\Рабочий стол\C_sharp_DZ_6\homework_6_c_sharp\obj\Debug\net6.0\ref\homework_6_c_sharp.dll
